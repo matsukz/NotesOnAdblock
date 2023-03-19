@@ -45,7 +45,7 @@
 
 ## 参考
 2023年3月19日採録
-* [pi-hole](https://github.com/pi-hole)（公式GitHubレポジトリ）
+* [pi-hole](https://github.com/pi-hole)（公式GitHubリポジトリ）
 * [Malwarebytes](https://www.malwarebytes.com)
   * [godpvqnszo.com](https://www.malwarebytes.com/blog/detections/godpvqnszo-com) - MalwarebytesLABS
   * [ondigitalocean.app](https://www.malwarebytes.com/blog/detections/ondigitalocean-app) - MalwarebytesLABS
